@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋!My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
+<h2 align="left">Hi 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
