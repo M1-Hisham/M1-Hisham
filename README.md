@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋!</h2>
+<h2>Hi 👋!</h2>
 <h2 align="left">My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
 
 ###
