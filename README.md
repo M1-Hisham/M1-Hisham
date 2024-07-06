@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/mohamed-hisham-99832b1b5/)" height="35" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="35" alt="linkedin logo"  />
  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
@@ -67,7 +67,7 @@
 ###
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
@@ -90,7 +90,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" target="blank"><img align="center" src="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" alt="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
