@@ -108,6 +108,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,git,cpp,figma,firebase,github,html,linux,mysql,nodejs,postman,flutter,redux,ps,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,firebase,postman,figma,xd,c,cpp,arduino,html,css,linux,mysql,ai,ps,vscode,kubernetes&perline=14" />
   </a>
 </p>
