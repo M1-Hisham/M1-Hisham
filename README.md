@@ -2,7 +2,7 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!I'm Mohamed</h1>
 <div align="center">Flutter Developer, from Egypt</div>
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats </h3>
 <h3>Longest vs Current Streak </h3>
  
 <div align="center">
