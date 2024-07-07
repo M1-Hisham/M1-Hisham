@@ -1,6 +1,6 @@
 
-<h2 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
-<h2 align="center">width="35">Flutter Developer, from Egypt</h2>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed and I'm a Flutter Developer, from Egypt</h1>
+<b align="center">width="35">Flutter Developer, from Egypt</b>
 
 ###
 
