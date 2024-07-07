@@ -68,7 +68,7 @@
 ###
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/m1-hisham/m1-hisham/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
        alt="snake" /></a>
 </div>
 
