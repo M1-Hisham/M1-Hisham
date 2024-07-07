@@ -66,11 +66,10 @@
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 ###
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
-       alt="snake" /></a>
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 ###
 <!-- Connect with me -->
