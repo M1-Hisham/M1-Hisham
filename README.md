@@ -51,14 +51,14 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Connect With Me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2></summary>
   </ul>
 </div>
 
  <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
 
