@@ -10,6 +10,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1-hisham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div style="display: flex; align-items: center;">
+  <p align="left" style="margin-right: 10px;"> 
+    <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+  </p>
+  <p align="left"> 
+    <a href="https://twitter.com/100rabhcsmc" target="blank">
+      <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />
+    </a> 
+  </p>
+</div>
 
 ###
 <!--h1 without bottom border-->
