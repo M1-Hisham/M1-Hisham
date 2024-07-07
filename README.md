@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/m1-hisham/m1-hisham/output/snake.svg" alt="Snake animation" />
 
 ###
 | Star Geographic Distribution | Star History |
@@ -67,7 +67,7 @@
 
 ###
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/m1-hisham/m1-hisham/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 
