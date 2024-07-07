@@ -27,32 +27,6 @@
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
 
 
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2></summary>
-  </ul>
-</div>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/M1-Hisham?tab=repositories](https://github.com/M1-Hisham?tab=repositories)
-
-- 📫 How to reach me **mohamedhisham67751@gmail.com**
-
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="30" width="40" /></a>
-</p>
-
-
-###
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
-</a>
-
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
@@ -85,6 +59,32 @@
 </details>
 </p>        
 <!--- stats (end) -->
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Connect With Me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2></summary>
+  </ul>
+</div>
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/M1-Hisham?tab=repositories](https://github.com/M1-Hisham?tab=repositories)
+
+- 📫 How to reach me **mohamedhisham67751@gmail.com**
+
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="30" width="40" /></a>
+</p>
+
+
+###
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
+</a>
+
+
 
 
 
