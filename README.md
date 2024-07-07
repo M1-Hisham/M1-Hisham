@@ -27,6 +27,16 @@
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
 
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m1-hisham&theme=tokyonight_duo" alt="m1-hisham" /></p>
+
+</details>
+</p>        
+<!--- stats (end) -->
+
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
@@ -49,16 +59,6 @@
   </p>
 </div>
 </details>
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m1-hisham&theme=tokyonight_duo" alt="m1-hisham" /></p>
-
-</details>
-</p>        
-<!--- stats (end) -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
