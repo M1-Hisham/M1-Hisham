@@ -71,8 +71,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/M1-Hisham/companies_tasks">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1-hisham&repo=companies_tasks&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/M1-Hisham/companies_tasks">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
