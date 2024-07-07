@@ -61,7 +61,7 @@
 
 - 📫 How to reach me **mohamedhisham67751@gmail.com**
 
-<h3 align="left">Connect with me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hisham-99832b1b5/" height="30" width="40" /></a>
 </p>
@@ -74,10 +74,4 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/m1-hisham/m1-hisham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m1-hisham&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
-</a>
+
