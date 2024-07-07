@@ -117,3 +117,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1-hisham&" alt="m1-hisham" /></p>
 
+###
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/m1-hisham/m1-hisham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m1-hisham&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
