@@ -9,10 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1-hisham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-
-</div>
-
 
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
 
@@ -69,3 +65,72 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
 </a>
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/M1-Hisham/companies_tasks">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/7oSkaaa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
