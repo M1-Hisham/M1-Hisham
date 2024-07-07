@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
+<h2 align="left">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed and I'm a Flutter Developer, from Egypt</h2>
 
 ###
 
@@ -8,8 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1-hisham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
