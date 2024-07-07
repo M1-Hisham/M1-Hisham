@@ -4,22 +4,23 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
+ 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35" alt="Github Stats" />
+    <b> Github Stats </b>
+  </div>
+  <p align="right" style="margin: 0;"> 
+    <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" />
+  </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m1-hisham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1-hisham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: flex; align-items: center;">
-  <p align="left" style="margin-right: 10px;"> 
-    <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-  </p>
-  <p align="left"> 
-    <a href="https://twitter.com/100rabhcsmc" target="blank">
-      <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />
-    </a> 
-  </p>
-</div>
+
 
 ###
 <!--h1 without bottom border-->
