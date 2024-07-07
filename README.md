@@ -84,8 +84,14 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1-hisham&repo=spends&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	
-    	
-    	
   </p>
 </div>
+</details>
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
 </details>
