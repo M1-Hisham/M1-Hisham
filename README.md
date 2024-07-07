@@ -1,16 +1,7 @@
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!I'm Mohamed</h1>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div align="center" style="flex: 1; text-align: center;">
-    Flutter Developer, from Egypt
-  </div>
-  <p align="right" style="margin: 0;">
-    <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" />
-  </p>
-</div>
-
 <div align="center">Flutter Developer, from Egypt</div>
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
+ 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
 
 
@@ -87,6 +78,6 @@
 </a>
 
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
 
 
