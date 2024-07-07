@@ -13,13 +13,8 @@
 
 </div>
 
-<br>
-
-###
 
 <img align="right" height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="dart logo"  />
@@ -73,5 +68,4 @@
 <a href="https://github.com/bindian0509/bindian0509">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
 </a>
-<br><br>
 
