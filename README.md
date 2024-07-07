@@ -77,8 +77,8 @@
 	<a href="https://github.com/M1-Hisham/Networks_App">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=m1-hisham&repo=Networks_App&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/M1-Hisham/Networks_App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/M1-Hisham/News_App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=M1-Hisham&repo=News_App&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/7oSkaaa/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
