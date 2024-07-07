@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed
-d</h1>
-<b align="center">Flutter Developer, from Egypt</b>
+##<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!My name is Mohamed</h1>
+<div align="center">Flutter Developer, from Egypt</div>
 
 ###
 
