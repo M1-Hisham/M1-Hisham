@@ -56,13 +56,8 @@
   </ul>
 </div>
 
- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1-hisham" alt="m1-hisham" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/M1-Hisham?tab=repositories](https://github.com/M1-Hisham?tab=repositories)
 
