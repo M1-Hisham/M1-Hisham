@@ -77,8 +77,8 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
 </a>
 
+###
 
-<br></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
 
 
