@@ -80,6 +80,6 @@
 </dive>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </p>
+<dive align="center"> <img src="https://komarev.com/ghpvc/?username=m1-hisham&label=Profile%20views&color=0e75b6&style=flat" alt="m1-hisham" /> </dive>
 
 
