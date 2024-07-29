@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!I'm Mohamed</h1>
-<div align="center">Flutter Developer, from Egypt</div>
+<div align="center">Flutter Developer | Android Developer, from Egypt</div>
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
 
@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,git,github,firebase,postman,figma,xd,c,cpp,arduino,html,css,,mysql,linux,vscode,androidstudio,ai,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,git,github,firebase,postman,figma,xd,c,cpp,arduino,html,css,,mysql,linux,vscode,ai,ps&perline=14" />
   </a>
 </p>
 
