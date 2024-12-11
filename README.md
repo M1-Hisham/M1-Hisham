@@ -1,15 +1,13 @@
 
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">!I'm Mohamed</h1>
-<div align="center">Mobile App Developer (Flutter & Android), from Egypt</div>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Mohamed</h1>
+<div align="center">Mobile App Developer (Flutter & Android)📲, from Egypt</div>
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1-hisham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1-hisham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&theme=radical&layout=compact" />
 </div>
-
 
 
 ###
@@ -33,7 +31,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m1-hisham&theme=tokyonight_duo" alt="m1-hisham" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=tokyonight_duo" alt="m1-hisham" /></p>
 
 </details>
 </p>        
