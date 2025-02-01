@@ -82,9 +82,9 @@
 &emsp;
 
 ###
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=gruvbox&hide_border=true)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
-</a>
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1-hisham&theme=react&hide_border=false)](https://github.com/m1-hisham" alt="Bharat's GitHub Stats Graph"/>
+</p>
 
 ###
 
