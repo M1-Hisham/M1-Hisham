@@ -5,8 +5,8 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
  
  <ul align="center">
-<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  </ul> 
 
 
@@ -32,7 +32,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=tokyonight_duo" alt="m1-hisham" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=react&hide_border=true&bg_color=0D1117" alt="m1-hisham" /></p>
 
 </details>
 </p>        
