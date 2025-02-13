@@ -32,7 +32,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=react&hide_border=true&bg_color=0D1117" alt="m1-hisham" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=react&hide_border=true" alt="m1-hisham" /></p>
 
 </details>
 </p>        
