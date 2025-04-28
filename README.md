@@ -5,8 +5,8 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
  
  <ul align="center">
-<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Mohamed Hisham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Mohamed Hisham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  </ul> 
 
 
