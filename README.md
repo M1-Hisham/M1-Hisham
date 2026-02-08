@@ -32,7 +32,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M1-Hisham&theme=react&hide_border=true" alt="m1-hisham" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=M1-Hisham&theme=transparent&border_radius=8&mode=weekly" alt="GitHub Streak" /></a>
 
 </details>
 </p>        
