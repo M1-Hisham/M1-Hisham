@@ -5,8 +5,8 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?raw=true" width="35"><b> Github Stats </b>
  
  <ul align="center">
-<img alt="Mohamed Hisham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M1-Hisham&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Mohamed Hisham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1-Hisham&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Mohamed Hisham's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=M1-Hisham&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&show=prs_merged_percentage" />
+<img alt="Mohamed Hisham's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M1-Hisham&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 	<img alt="Mohamed Hisham's Github Stats" src="https://github-trophies.vercel.app/?username=M1-Hisham&theme=darkhub&no-frame=true" />
  </ul> 
 	 
